@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
                     layout.setVisibility(View.VISIBLE);
 
                 }
-                /*else{
+                else{
                     boolean gameIsOver = true;
                     for (int counterState : gameState){
                         if(counterState == 2){
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
                             layout.setVisibility(View.VISIBLE);
                         }
                     }
-                }*/
+                }
             }
 
         }
